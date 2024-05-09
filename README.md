@@ -1,6 +1,13 @@
 ![welcome](https://user-images.githubusercontent.com/37983022/141644913-901245e0-c3b3-460b-8588-e279c5e78fa1.gif)
 
 I'm Md: Rakib hosen, a Full Stack Web Application Developer.
+💼 As a freelancer, you can also find me on:
+
+[![Fiverr Logo](https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge)](https://www.fiverr.com/rakib_thpi) 
+[![Upwork Logo](https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge)](https://www.upwork.com/freelancers/~01350d3c08c0b647a1)
+
+ <br>
+ <br>
 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rakibthpi)
