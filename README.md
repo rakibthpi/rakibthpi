@@ -3,9 +3,6 @@
 I'm Md: Rakib hosen, a Full Stack Web Application Developer.
 💼 As a freelancer, you can also find me on:
 
-[![Fiverr Logo](https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge)](https://www.fiverr.com/rakib_thpi) 
-[![Upwork Logo](https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge)](https://www.upwork.com/freelancers/~01350d3c08c0b647a1)
-
  <br>
  <br>
 
