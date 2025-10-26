@@ -1,4 +1,4 @@
-![welcome]('textanim.gif')
+![welcome](['textanim.gif'](https://github.com/rakibthpi/your-repo-name/blob/main/textanim.gif?raw=true)
 
 I'm Md: Rakib hosen, a Full Stack Web Application Developer.
 💼 As a freelancer, you can also find me on:
