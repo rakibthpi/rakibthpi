@@ -1,4 +1,4 @@
-![welcome](https://raw.githubusercontent.com/rakibthpi/rakibthpi/main/textanim.gif)
+### Welcome
 
 
 I'm Md: Rakib hosen, a Full Stack Web Application Developer.
