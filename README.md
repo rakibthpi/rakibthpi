@@ -21,7 +21,8 @@ I'm Md: Rakib hosen, a Full Stack Web Application Developer.
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-:e-mail: &emsp;How to reach me: rakibhosen2244@gmail.com.<br/> <br>
+:e-mail: &emsp;How to reach me: rakibhosen2244@gmail.com <br/>
+:telephone_receiver: &emsp;WhatsApp: +8801518496721 <br/><br/>
  
 
 
